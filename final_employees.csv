@@ -1,0 +1,9 @@
+,,
+employee_number,last_name,first_name,line_manager,title
+emp_1,Ross,Shannon,,General Manager
+emp_2,Griffin,Mark,1.0,Sales Manager
+emp_03,Estrada,Patricia,2.0,Sales Officer
+emp_04,West,Alicia,2.0,Sales Officer
+emp_05,Petersen,Cassidy,2.0,Sales Officer
+emp_6,Gomez,Charles,1.0,IT Manager
+emp_7,Berry,Alexa,6.0,IT Officer
